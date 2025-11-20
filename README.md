@@ -4,5 +4,5 @@
 с целью изучения клиентского поведения и разработки мер по увеличению продаж в 2024–2025 годах.
 ## Таблица данных
 - <a href="https://github.com/Milena1550/Data-Anaysis-Dashboards/blob/main/Dashboard.xlsx">Dataset</a>
-## dashboard
-- <a href="https://github.com/Milena1550/Data-Anaysis-Dashboards/blob/main/page0.png
+## Dashboard
+- ![Screenshot (495)](https://github.com/Milena1550/Data-Anaysis-Dashboards/blob/main/page0.png)
